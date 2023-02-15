@@ -1,0 +1,4 @@
+total 8
+-rw-r--r-- 1 root root 13 Feb 13 11:15 0-hello_world
+-rw-r--r-- 1 root root  0 Feb 13 11:17 out.txt
+-rw-r--r-- 1 root root 32 Feb 13 11:11 README.md
